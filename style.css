@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: aqua;
+}
+
+#video {
+    width: 0;
+}
+
+#canvas {
+    position: absolute;
+    top: 18%;
+    left: 27%;
+}
+
+.mozi {
+    text-align: center;
+    padding: 50px;
+    font-size: 50px;
+    color: rgb(75, 41, 41);
+}
